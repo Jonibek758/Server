@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "start": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
     "express": "^4.18.2",
