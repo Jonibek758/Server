@@ -1,0 +1,30 @@
+{
+  "Business": [
+    { "id": 1, "body": "Business Planning", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered","img":"../img/images" },
+    { "id": 2, "body": "Financial Planning", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered" ,"img":"../img/images"},
+    { "id": 3, "body": "Market Analysis", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered" ,"img":"../img/images"},
+    { "id": 4, "body": "Business Planning", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered" ,"img":"../img/images"},
+    { "id": 5, "body": "Financial Planning", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered","img":"../img/images" },
+    { "id": 6, "body": "Market Analysis", "title": "There are many variations of passages of Lorem Ipsum available but majority have suffered","img":"../img/images" }    
+  ],
+  "Blog": [
+    { "id": 1, "title": "Free Font Alternatives: The UltimateGuide" },
+    { "id": 2, "title": "100 Things a UX/UI Designer ShouldKnow" }
+     
+  ],
+  "imgs":[
+    {"id":1,"src":[{"id":"1","src":"dependencies"}]},
+    {"id":1,"src":[{"id":"1","src":"dependencies"}]},
+    {"id":1,"src":[{"id":"1","src":"dependencies"}]},
+    {"id":1,"src":[{"id":"1","src":"dependencies"}]}
+
+  ],
+  "Blogimg":[
+    {
+      "img": "/images/blog3.png",
+      "title": "Design Systems: What, Why and How"
+    }
+  ]
+
+}
+
